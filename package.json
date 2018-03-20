@@ -1,0 +1,18 @@
+{
+  "name": "gulp_basic_starter_kit",
+  "version": "1.0.0",
+  "description": "my gulp production starter pack with sass, autoprefixer, and browsersync",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Johnathan Mercier",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^8.1.0",
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^7.0.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
