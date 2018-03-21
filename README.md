@@ -51,7 +51,7 @@ The autoprefixer is currently set to provide prefix support for 99.5% of browser
 
 Adjust this line of code to change the autoprefixer options using options listed [here][4]
 
-autoprefixer({ browsers: ['cover 99.5% in US'], flexbox: "no-2009" })
+```autoprefixer({ browsers: ['cover 99.5% in US'], flexbox: "no-2009" })```
 
 ## Resources
 A list of all the resources I used to when putting together this kit
