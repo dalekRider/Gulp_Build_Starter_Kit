@@ -20,7 +20,6 @@ gulp.task('sass', function(){
 //watch and serve
 gulp.task('serve', ['sass'], function(){
     browserSync.init({
-        browser: 'C:\\Program Files\\Firefox Developer Edition\\firefox.exe',
         server: './src'
     });
 
